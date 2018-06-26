@@ -1,18 +1,18 @@
-# How to use this
+# ¿Cómo usarse?
 
-## First steps
+## Primeros pasos
 
-1. Join https://steamcommunity.com/groups/SteamDB (needed to represent captures)
-2. Open https://steamcommunity.com/saliengame/gettoken and save it as `token.txt` in the same folder as `cheat.php`
-3. Select PHP or Python version of the script. You don't need both
+1. Unase a https://steamcommunity.com/groups/SteamDB (se necesita para representar la captura de territorios)
+2. Abra https://steamcommunity.com/saliengame/gettoken y guarde el token en un archivo de texto llamado `token.txt` en el mismo directorio que `cheat.php`
+3. Seleccione la versión PHP del script o la versión de Python. No necesita ambos.
 
 ## PHP
 
 ### Windows
 
-1. [Download this script](https://github.com/SteamDatabase/SalienCheat/archive/master.zip)
-2. Extract it into a new folder
-3. Click `cheat.bat` and follow instructions
+1. [Descargue éste script](https://github.com/SteamDatabase/SalienCheat/archive/master.zip)
+2. Extraigalo en un nuevo directorio.
+3. Ejecute `cheat.bat` y siga las instrucciones
 
 ### Mac
 
