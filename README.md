@@ -10,7 +10,7 @@
 
 ### Windows
 
-1. [Descargue éste script](https://github.com/SteamDatabase/SalienCheat/archive/master.zip)
+1. [Descargue éste script](https://github.com/iSparkz/SalienCheatEspa-ol/archive/master.zip)
 2. Extraigalo en un nuevo directorio.
 3. Ejecute `cheat.bat` y siga las instrucciones
 
